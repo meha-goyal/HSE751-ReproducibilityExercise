@@ -1,5 +1,7 @@
 # HSE751-ReproducibilityExercise
 
+Notebook Link: https://drive.google.com/file/d/17OEbszxyRN42h7SD-bBMDDO0E7ETwRFD/view?usp=sharing
+
 # Diabetes Risk Factor Analysis
 
 This repository includes a reproducible Python notebook (`diabetes_risk_factor_analysis (2).ipynb`) that explores which patient characteristics are associated with diabetes status
